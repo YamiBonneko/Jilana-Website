@@ -2,4 +2,4 @@ body { font-family: Georgia; color: #000000; background-color:#C3B1E1; }
 
 /* The code below modifies all the content within the <h1> tags */
 
-h1 { font-family: League Gothic; color:#301934; }
+h1 { font-family: Georgia, 'Times New Roman', Times, serif; color:#301934; }
