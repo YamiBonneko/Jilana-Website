@@ -65,13 +65,15 @@ h2 {font-family:'Times New Roman', Times, serif;
 .free {float: left;
     overflow: auto;
 }
-#bonnie {float: right;
+#bonnie {float: left;
 }
-#foxy {float: right;
+#foxy {float: left;
 }
-#freddy {float: right;
+#freddy {float: left;
 }
-#chica {float: right;
+#chica {float: left;
+}
+#goldie {float: right;
 }
 
 
