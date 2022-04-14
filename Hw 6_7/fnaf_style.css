@@ -1,9 +1,9 @@
-body class= "fnaf1" {background-image: url("https://i.gifer.com/EfE7.gif");
+body.fnaf1 {background-image: url("https://i.gifer.com/EfE7.gif");
     color: White;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-body class= "fnaf2" {background-image: url("https://i.gifer.com/spV.gif");
+body.fnaf2 {background-image: url("https://i.gifer.com/spV.gif");
     color: White;
 }
 
