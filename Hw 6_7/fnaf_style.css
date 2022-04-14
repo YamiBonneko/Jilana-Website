@@ -70,6 +70,9 @@ h2 {font-family:'Times New Roman', Times, serif;
 .Vanny {width: 250;
     height: 200;
     position: fixed;
+    padding: 15
+    top: 50;
+    bottom: 50;
 }
 
 .mbutton {width: 200;
