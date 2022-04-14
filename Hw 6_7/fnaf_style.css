@@ -29,6 +29,14 @@ h1 {font-family:'Times New Roman', Times, serif;
     height: 100;
     padding: 30 10 30 15;
     border: dotted red 10;
+    background: black;
+}
+
+h1.fnaf2 {font-family:'Times New Roman', Times, serif;
+    font-size: 70;
+    height: 100;
+    padding: 30 10 30 15;
+    border: dotted red 10;
 }
 
 h2 {font-family:'Times New Roman', Times, serif;
@@ -36,7 +44,6 @@ h2 {font-family:'Times New Roman', Times, serif;
     height: 100;
     padding: 30 10 30 15;
     border: dotted red 10;
-    background: black;
 }
 
 .genre {font-family: Arial, Helvetica, sans-serif;
@@ -85,6 +92,8 @@ h2 {font-family:'Times New Roman', Times, serif;
 #chica {float: left;
 }
 #goldie {float: right;
+}
+#Lore {float: right;
 }
 
 
