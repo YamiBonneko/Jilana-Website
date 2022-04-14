@@ -80,7 +80,8 @@ h2 {font-family:'Times New Roman', Times, serif;
 #goldie {float: right;
 }
 
-.menu {background: transparent;
+
+.catalog {background: transparent;
     color:#00C2BA;
     font-size: 24;
     width: 150;
@@ -93,7 +94,7 @@ h2 {font-family:'Times New Roman', Times, serif;
     transition: 2;
 }
 
-.menu:hover{
+.catalog:hover{
     cursor: pointer;
     box-shadow: 0 2 50 0 #00C2BA, 0 2 100 0 #00C2BA;
 } 
