@@ -16,6 +16,14 @@ header {font-family:'Times New Roman', Times, serif;
     border: dotted red 10;
     background: black;}
 
+header.fnaf2 {font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 75;
+    height: 100;
+    padding: 30 10 30 15;
+    border: dotted red 10;
+    background: rgb(100, 74, 200);
+}
+
 h1 {font-family:'Times New Roman', Times, serif;
     font-size: 70;
     height: 100;
@@ -81,17 +89,16 @@ h2 {font-family:'Times New Roman', Times, serif;
 }
 
 
-.catalog {background: transparent;
-    color:#00C2BA;
+.catalog {background-color: rgb(138, 11, 11);
+    color:rgb(61, 0, 46);
     font-size: 24;
-    width: 150;
-    height: 36;
+    width: 200;
+    height: 150;
     font-family: sans-serif;
     border-color:#00C2BA
-    font-weight: 600;
-    border-radius:22;
+    border-radius: 22;
     letter-spacing: 7
-    transition: 2;
+    transform: translate(-50,50);
 }
 
 .catalog:hover{
