@@ -7,7 +7,11 @@ body.fnaf2 {background-image: url("https://i.gifer.com/spV.gif");
     color: White;
 }
 
-p {font: size 30;}
+body.fnafhome {background-image: url("https://c.tenor.com/35QrpzOcGg4AAAAC/retro-rubiks-cube.gif");
+    color: White;
+}
+
+p {font: size 50;}
 
 header {font-family:'Times New Roman', Times, serif;
     font-size: 75;
@@ -85,6 +89,19 @@ h2 {font-family:'Times New Roman', Times, serif;
     transform: translate(-50,50)
     color: white;
     background-color: grey;
+    border-radius: 60;
+}
+
+.tbutton {width: 200;
+    height: 150;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20;
+    padding: 15
+    top: 50;
+    bottom: 50;
+    transform: translate(-50,50)
+    color: white;
+    background-color: blue;
     border-radius: 60;
 }
 
