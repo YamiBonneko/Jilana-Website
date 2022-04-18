@@ -127,9 +127,8 @@ h2 {font-family:'Times New Roman', Times, serif;
 }
 #musicman {position: absolute;
     top: 50;
-    width: 100;
     text-align: center;
-    font-size: 18;}
+}
 
 
 .catalog {background-color: rgb(138, 11, 11);
