@@ -55,7 +55,7 @@ h4 {font-family:'Times New Roman', Times, serif;
     height: 100;
     padding: 30 10 30 15;
     border: dotted red 10;
-    background: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
 }
 
 p.fnafhome {font-family:'Times New Roman', Times, serif;
@@ -63,7 +63,7 @@ p.fnafhome {font-family:'Times New Roman', Times, serif;
     height: 100;
     padding: 30 10 30 15;
     border: dotted red 10;
-    background: rgb(255, 255, 255);
+    background: rgb(0, 0, 0);
 
 .genre {font-family: Arial, Helvetica, sans-serif;
         font-size: 20;
