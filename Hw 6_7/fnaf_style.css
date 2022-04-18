@@ -126,9 +126,7 @@ h2 {font-family:'Times New Roman', Times, serif;
 }
 #Lore {float: right;
 }
-#musicman {position: absolute;
-    top: 50;
-    text-align: center;
+#musicman {float: left;
 }
 
 
