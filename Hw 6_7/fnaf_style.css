@@ -46,6 +46,7 @@ h1.fnaf2 {font-family:'Times New Roman', Times, serif;
     height: 100;
     padding: 30 10 30 15;
     border: dotted red 10;
+    background-color: darkblue;
 }
 
 h2 {font-family:'Times New Roman', Times, serif;
