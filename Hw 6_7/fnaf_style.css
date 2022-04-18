@@ -13,6 +13,11 @@ body.fnafhome {background-image: url("https://c.tenor.com/35QrpzOcGg4AAAAC/retro
 
 p {font: size 50;}
 
+p.fnafhome {font family: 'Arial', Helvetica, sans-serif;
+    background: blue;
+}
+
+
 header {font-family:'Times New Roman', Times, serif;
     font-size: 75;
     height: 100;
@@ -120,6 +125,11 @@ h2 {font-family:'Times New Roman', Times, serif;
 }
 #Lore {float: right;
 }
+#musicman {position: absolute;
+    top: 50;
+    width: 100;
+    text-align: center;
+    font-size: 18;}
 
 
 .catalog {background-color: rgb(138, 11, 11);
