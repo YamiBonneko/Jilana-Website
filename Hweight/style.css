@@ -62,3 +62,92 @@ nav ul li a {
     border-width: 10;
     border-color: white;
 }
+
+/* End of Navigation Area */
+
+article {
+    position: relative;
+    top: 35;
+    background-color: #ffcd9b;
+    border-style: double;
+    border-width: 10;
+    border-color: white;
+    text-shadow: 0 1 1 rgba(0,0,0,.5);
+    height: 550;
+    width: 600;
+}
+
+article h2 {
+    color: #ff4ba0;
+    font-size: 24;
+    line-height: 14;
+    margin: 20 0 0 0;
+    padding: 10 20;
+    font-style: bold;
+}
+
+article p {
+
+    color: rgba(0,0,0,.5);
+    font-size: 20;
+    line-height: 24;
+    padding: 2 20;
+}
+
+section {
+
+    background-color: #9bcdff;
+    border-style: double;
+    border-width: 4;
+    border-color: white;
+    padding: 0;
+    margin: 10 10;
+}
+
+section h3 {
+    color: #ff4ba0;
+    font-size: 22;
+    line-height: 14;
+    margin: 10 0 0 0;
+    padding: 20 5 0 20;
+    font-style: bold;
+    text-shadow: 0 1 1 rgba (0,0,0,.5);
+}
+
+section p {
+
+    color: #ffffff;
+    font-size: 16;
+    font-style: italic;
+    line-height: 22;
+}
+
+aside {
+    position: relative;
+    top: -535;
+    left: 640;
+    background-color: #ffcd9b;
+    border-style: solid;
+    border-width: 8;
+    border-color: white;
+    height: 555;
+    width: 302;
+    text-shadow: 0 1 1 rgba (0,0,0,.5);
+}
+
+aside h3 {
+    color: #ff4ba0;
+    font-size: 24;
+    line-height: 14;
+    margin: 20 0 0 0;
+    padding: 10 20;
+    font-style: bold;
+}
+
+article p {
+
+    color: rgba(0,0,0,.5);
+    font-size: 20;
+    line-height: 22;
+    padding: 10 20 0 20;
+}
