@@ -22,7 +22,7 @@ header [role="banner"] {
 h1 {
     font-size: 60;
     text-align: center;
-    color: #024758;
+    color: #04cdff;
     text-shadow: 0 1 1 rgba(0,0,0,.5)
     margin: 0 0 0 0;
 }
@@ -78,7 +78,7 @@ article {
 }
 
 article h2 {
-    color: #ff4ba0;
+    color: #04cdff;
     font-size: 24;
     line-height: 14;
     margin: 20 0 0 0;
@@ -105,7 +105,7 @@ section {
 }
 
 section h3 {
-    color: #ff4ba0;
+    color: #04cdff;
     font-size: 22;
     line-height: 14;
     margin: 10 0 0 0;
@@ -136,7 +136,7 @@ aside {
 }
 
 aside h3 {
-    color: #ff4ba0;
+    color: #04cdff;
     font-size: 24;
     line-height: 14;
     margin: 20 0 0 0;
