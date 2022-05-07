@@ -14,11 +14,11 @@ header [role="banner"] {
     
     position: relative;
     top: 20
-    background-color: #9bcdff;
+    background-color: #6489f0;
     height: 135;
     border-style: solid;
     border-width: 10;
-    border-color: white;
+    border-color: #ffffff;
 }
 
 h1 {
