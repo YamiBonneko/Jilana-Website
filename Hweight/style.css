@@ -10,7 +10,7 @@ body {
     color: #6489f0;
 }
 
-header [role="banner"] {
+head [role="banner"] {
     
     position: relative;
     top: 20px;
