@@ -34,6 +34,19 @@ nav {
     margin: 0 auto;
 }
 
+nav-aside {
+    display:inline-block;
+}
+
+nav-aside ul li {
+    margin:0 45px 0 90px;
+    white-space: nowrap ;
+    display: inline-block;
+    height: 20px;
+    width: 45px;
+
+}
+
 nav ul {
     
     text-align: center;
